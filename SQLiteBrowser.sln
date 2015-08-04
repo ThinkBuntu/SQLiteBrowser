@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SQLiteBrowser", "SQLiteBrowser\SQLiteBrowser.vbproj", "{9F0B5040-6E9B-4D13-8AF0-898E293E532C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F0B5040-6E9B-4D13-8AF0-898E293E532C}.Debug|x86.ActiveCfg = Debug|x86
+		{9F0B5040-6E9B-4D13-8AF0-898E293E532C}.Debug|x86.Build.0 = Debug|x86
+		{9F0B5040-6E9B-4D13-8AF0-898E293E532C}.Release|x86.ActiveCfg = Release|x86
+		{9F0B5040-6E9B-4D13-8AF0-898E293E532C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
