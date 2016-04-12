@@ -26,18 +26,18 @@ Module Module_Umum
     Public KodeCabang_Login As String = ""
     Public periode As String
     Public ManaYgDiklik As String
-    Public sLocal_Folder As String = "\\192.168.0.7\Teguhsindo\MeBrow\Report\"
+    Public sLocal_Folder As String = "FOLDER_A"
     Public sLocal_Folder2 As String = "D:\ReportDPLDPF\"
-    Public sServer_Folder As String = "\\192.168.0.7\Teguhsindo\MeBrow\Report\"
+    Public sServer_Folder As String = "FOLDER_B"
 
     Public sPT2 As String
     Public sPT As String
     Public sNamaPT As String
     Public sKodePT As String = "01"
     Public database As String = sPT + "_MKT"
-    Public Server As String = "192.168.0.7"
-    Public UserId As String = "nunung"
-    Public Password As String = "nunung123.mkt"
+    Public Server As String = "IP_SERVER"
+    Public UserId As String = "USER_ANDA"
+    Public Password As String = "PASSWORD_ANDA"
 
     Public con1 As New SqlClient.SqlConnection
     Public con2 As New SqlClient.SqlConnection
